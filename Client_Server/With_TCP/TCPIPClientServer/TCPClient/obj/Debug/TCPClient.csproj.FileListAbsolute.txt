@@ -1,0 +1,11 @@
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\bin\Debug\TCPClient.exe.config
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\bin\Debug\TCPClient.exe
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\bin\Debug\TCPClient.pdb
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\bin\Debug\SimpleTCP.dll
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\obj\Debug\TCPClient.Form1.resources
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\obj\Debug\TCPClient.exe
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPClient\obj\Debug\TCPClient.pdb

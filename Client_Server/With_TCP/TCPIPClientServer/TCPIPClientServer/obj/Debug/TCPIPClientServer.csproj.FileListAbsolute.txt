@@ -1,0 +1,11 @@
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\bin\Debug\TCPIPClientServer.exe.config
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\bin\Debug\TCPIPClientServer.exe
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\bin\Debug\TCPIPClientServer.pdb
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\obj\Debug\TCPIPClientServer.csprojResolveAssemblyReference.cache
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\obj\Debug\TCPIPClientServer.Server.resources
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\obj\Debug\TCPIPClientServer.Properties.Resources.resources
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\obj\Debug\TCPIPClientServer.csproj.GenerateResource.Cache
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\obj\Debug\TCPIPClientServer.csproj.CoreCompileInputs.cache
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\obj\Debug\TCPIPClientServer.exe
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\obj\Debug\TCPIPClientServer.pdb
+c:\users\hung117\documents\visual studio 2017\Projects\TCPIPClientServer\TCPIPClientServer\bin\Debug\SimpleTCP.dll
