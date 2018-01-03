@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: c80a5c2e42c114544a0af7966edf41da
+timeCreated: 1509665386
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: Armature
+    100004: Camera
+    100006: chest
+    100008: Gorilla.lwo
+    100010: Gorilla.lwo_MeshPart0
+    100012: Gorilla.lwo_MeshPart1
+    100014: Gorilla.lwo_MeshPart2
+    100016: Gorilla.lwo_MeshPart3
+    100018: Gorilla.lwo_MeshPart4
+    100020: Gorilla.lwo_MeshPart5
+    100022: Gorilla.lwo_MeshPart6
+    100024: Gorilla.lwo_MeshPart7
+    100026: //RootNode
+    100028: Lamp
+    100030: LowerArm.L
+    100032: LowerArm.L_end
+    100034: LowerArm.R.001
+    100036: LowerArm.R.001_end
+    100038: UpperArm.L
+    100040: UpperArm.R.001
+    100042: Wrist.L
+    100044: Wrist.L_end
+    100046: Wrist.R.001
+    100048: Wrist.R.001_end
+    400000: abdomen
+    400002: Armature
+    400004: Camera
+    400006: chest
+    400008: Gorilla.lwo
+    400010: Gorilla.lwo_MeshPart0
+    400012: Gorilla.lwo_MeshPart1
+    400014: Gorilla.lwo_MeshPart2
+    400016: Gorilla.lwo_MeshPart3
+    400018: Gorilla.lwo_MeshPart4
+    400020: Gorilla.lwo_MeshPart5
+    400022: Gorilla.lwo_MeshPart6
+    400024: Gorilla.lwo_MeshPart7
+    400026: //RootNode
+    400028: Lamp
+    400030: LowerArm.L
+    400032: LowerArm.L_end
+    400034: LowerArm.R.001
+    400036: LowerArm.R.001_end
+    400038: UpperArm.L
+    400040: UpperArm.R.001
+    400042: Wrist.L
+    400044: Wrist.L_end
+    400046: Wrist.R.001
+    400048: Wrist.R.001_end
+    2000000: Camera
+    4300000: Gorilla.lwo_MeshPart0
+    4300002: Gorilla.lwo_MeshPart1
+    4300004: Gorilla.lwo_MeshPart2
+    4300006: Gorilla.lwo_MeshPart3
+    4300008: Gorilla.lwo_MeshPart4
+    4300010: Gorilla.lwo_MeshPart5
+    4300012: Gorilla.lwo_MeshPart6
+    4300014: Gorilla.lwo_MeshPart7
+    7400000: ArmatureAction
+    7400002: Armature|ArmatureAction
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Gorilla.lwo_MeshPart0
+    13700002: Gorilla.lwo_MeshPart1
+    13700004: Gorilla.lwo_MeshPart2
+    13700006: Gorilla.lwo_MeshPart3
+    13700008: Gorilla.lwo_MeshPart4
+    13700010: Gorilla.lwo_MeshPart5
+    13700012: Gorilla.lwo_MeshPart6
+    13700014: Gorilla.lwo_MeshPart7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
