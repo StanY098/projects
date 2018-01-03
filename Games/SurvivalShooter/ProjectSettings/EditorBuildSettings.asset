@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: dd6367b07dc79445ba8cb4c380f1b4e3
+  - enabled: 1
+    path: Assets/Scenes/Transition( start to 1).unity
+    guid: 2cdd996bc0a73da40889d18f30e38db7
+  - enabled: 1
+    path: Assets/Scenes/Level 01.unity
+    guid: eca36f35cc65f433f9c6a50e4116abb5
+  - enabled: 1
+    path: Assets/Scenes/Transition( 1 to 2).unity
+    guid: 5a37a73ec61ee6f46913d128b1eaf5f4
+  - enabled: 1
+    path: Assets/Scenes/Level 02.unity
+    guid: b0e5527e20147e143b0813c2744745a9
+  - enabled: 1
+    path: Assets/Scenes/Transition( 2 to 3).unity
+    guid: 86faa50905929764181c6b0975b295a1
+  - enabled: 1
+    path: Assets/Scenes/Level 03.unity
+    guid: c9d726ef1cbb1fa42bc9fc56727c0558
+  - enabled: 1
+    path: Assets/Scenes/Transition( 3 to end).unity
+    guid: 298bb7a900bd3464aa41149ebd5e288b
+  - enabled: 1
+    path: Assets/Scenes/Input User Name.unity
+    guid: 452268794c98b1b44b5cd5327cb27b7b
+  - enabled: 1
+    path: Assets/Scenes/DeathScene.unity
+    guid: e191189f9b5764e6ba7de35e6ed9e316
+  - enabled: 0
+    path: 
+    guid: 2a6360a1aabe4433b9be73291c588b8f
+  - enabled: 0
+    path: 
+    guid: 2a6360a1aabe4433b9be73291c588b8f
+  - enabled: 0
+    path: 
+    guid: 0fae57c67510b344e986db3985c3b65a
+  - enabled: 0
+    path: 
+    guid: e31151469f9db41bb99384b804f43c3d
+  - enabled: 0
+    path: 
+    guid: e31151469f9db41bb99384b804f43c3d
+  - enabled: 0
+    path: Assets/_CompletedAssets/Scenes/Level 01 5.x.unity
+    guid: 00000000000000000000000000000000
