@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>
+                Photo Beginner
+            </title>
+            <meta charset="utf-8">
+            <link rel="stylesheet" href="main.css">
+            <link rel="shortcut icon" href="camera.ico">
+            <link rel="stylesheet" media="print" href="print.css">
+            <meta name="viewport" content="width=device-with, initial-scale=1.0">
+        </head>
+        <body>
+            <img src="background.jpg" alt="background" id="background">
+            <div id="left-column">
+                <nav id="navfixed">
+                    <ul>
+                        <li>
+                            <a href="index.html">Home</a>
+                        </li>
+                        <li>
+                            <a href="iso.html">ISO</a>
+                        </li>
+                        <li>
+                            <a href="aperture.html">Aperture</a>
+                        </li>
+                        <li>
+                            <a href="shutter.html">Shutter</a>
+                        </li>
+                        <li>
+                            <a href="equip.html">Other Equipments</a>
+                        </li>
+                        <li>
+                            <a href="comp.html">Camera Options</a>
+                        </li>
+                        <li>
+                            <span>&#9755;Sign Up Form</span><span id="quote"> (sign up for more information)</span>
+                        </li>
+                    </ul>
+                    <h3>
+                        Other Links:
+                    </h3>
+                    <ul>
+                        <li>
+                            <a href="http://www.fotobeginner.com/">FOTO BEGINNER</a>
+                        </li>
+                        <li>
+                            <a href="http://www.techradar.com/news/photography-video-capture/cameras/buying-guide-best-slrs-for-beginners-1251700">Techradar</a>
+                        </li>
+                        <li>
+                            <a href="https://en.wikipedia.org/wiki/Camera">Wikipedia - Camera</a>
+                        </li>
+                        <li>
+                            <footer>
+                                &copy; 2017 STANLEY HUNG
+                            </footer>
+                        </li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </nav>
+            </div>
+            <div id="main-column">
+                <h1>
+                    Sign Up Form
+                </h1>
+                <p>
+                    If you need more information, feel free to
+                    leave your information (name and email address)
+                    below. I will keep you updated!
+                </p>
+                <div>
+                    <form action="form.php" method="post">
+                        <div>
+                            <label>
+                                Name: 
+                            </label>
+                            <input type="text" name="name" placeholder="Nickname or Full Name" required>
+                        </div>
+                        <div>
+                            <label>
+                                Gender: 
+                            </label>
+                            <input type="radio" name="gender" value="male" required> Male
+                            <input type="radio" name="gender" value="female" required> Female
+                        </div>
+                        <div>
+                            <label>
+                                Email: 
+                            </label>
+                            <input type="email" name="email" placeholder="example123@gmail.com" required>
+                        </div>
+                        <div>
+                            <label>
+                                Comment: 
+                            </label>
+                            <textarea name="comments" placeholder="Feel free to leave any comment"></textarea>
+                        </div>
+                        <div>
+                            <input id="submit" type="submit" value="Sign Up">
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <header id="headfixed">
+                <h1>
+                    <img src="camera.png" alt="cartoon">
+                    PHOTOGRAPHING BEGINNER
+                    <img src="camera.png" alt="cartoon">
+                </h1>
+                <h4>
+                    Sign Up Form
+                </h4>
+            </header>
+        </body>
+    </html>

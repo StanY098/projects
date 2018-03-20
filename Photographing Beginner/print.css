@@ -1,0 +1,39 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: left;
+}
+
+header {
+    display: none;
+}
+
+#left-column {
+    float: none;
+}
+
+nav {
+    display: none;
+}
+
+iframe {
+    display: none;
+}
+
+#main-column {
+    margin-left: 0;
+    margin-top: 10%;
+    position: relative;
+}
+
+#main-column:after {
+    content: "copyright 2017 Stanley Hung Photographing Beginner";
+}
+
+#background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.15;
+}
