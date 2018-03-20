@@ -1,0 +1,439 @@
+#not_loginned {
+    background: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-attachment: fixed;
+    font-family: Calibri;
+}
+
+#loginned {
+    background-color: white;
+    font-family: Time News Roman;
+    margin: 0;
+    padding: 0;
+}
+
+#outsider {
+    background-color: white;
+    margin-right: 50%;
+    position: fixed;
+    top: 0;
+    height: 100%;
+}
+
+#outsider #big_header {
+    font-size: 48px;
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+    padding: 1%;
+}
+
+#outsider #big_header #sub_title {
+    font-size: 20px;
+}
+
+#outsider footer, #insider #big_header #normal_footer {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+#outsider #sub_header {
+    font-size: 36px;
+    font-style: italic;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+#outsider form, #outsider p {
+    font-size: 18px;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding: 12px;
+    width: 500px;
+    border-radius: 30px;
+}
+
+#outsider form #forgot_password {
+    margin-top: 8px;
+}
+
+#outsider form .form_fill {
+    font-size: 1.2em;
+    padding-top: 8px;
+}
+#outsider form .form_fill input {
+    font-size: 1.1em;
+    border-radius: 5px;
+}
+
+#outsider form .form_fill #submit {
+    font-size: 0.8em;
+}
+
+#outsider form .form_fill #special_note_on_sign_up {
+    font-size: 0.8em;
+}
+
+#outsider p .bold_italic {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#insider {
+    margin: 0;
+    padding: 0;
+}
+
+#insider #big_header {
+    margin: 0;
+    text-align: left;
+    font-size: 36px;
+    font-style: italic;
+    color: white;
+    background-color: black;
+    padding: 5px;
+}
+
+#insider #account {
+    cursor: pointer;
+}
+
+#insider #user_nav {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 0;
+}
+
+#insider #user_nav li {
+    margin: 0;
+    display: block;
+    background-color: black;
+    color: white;
+}
+
+ul {
+    margin: 0;
+}
+
+#insider #user_nav #nav_normal {
+    padding: 12px;
+    display: none;
+    list-style: none;
+}
+
+#insider #user_nav #nav_normal a {
+    color: white;
+}
+
+#insider #user_nav #nav_normal:hover {
+    background-color: grey;
+}
+
+#insider #user_nav #bigger {
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 32px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#insider #user_nav a {
+    text-decoration: none;
+}
+
+#insider #nav {
+    margin: 0;
+    background-color: #DCDCDC;
+}
+
+#insider #nav #list {
+    margin: 0;
+}
+
+#insider #nav li {
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 8.5%;
+    padding-right: 8.5%;
+}
+
+#insider #nav li:hover {
+    background-color: white;
+}
+
+#insider #nav a {
+    text-decoration: none;
+    color: black;
+}
+
+#insider #nav a:hover {
+    text-decoration: underline;
+}
+
+#insider #nav #second_nav_description {
+    text-align: left;
+    font-size: 14px;
+    padding: 0;
+    font-weight: normal;
+}
+
+#insider #nav #second_nav_description:hover {
+    background-color: #DCDCDC;
+}
+
+#insider #sub_header {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.grey_background {
+    background-color: lightgrey;
+}
+
+.white_background {
+    background-color: white;
+}
+
+.on_the_page {
+    background-color: white;
+}
+
+.black_title {
+    background-color: black;
+    color: white;
+}
+
+.small_padding {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.transfer_or_copy {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.transfer_or_copy:hover {
+    background-color: #444444;
+}
+
+#insider #message {
+    font-style: italic;
+    font-size: 18px;
+    padding-left: 7px;
+    padding-right: 10px;
+}
+
+#insider #reminder {
+    margin-left: 40%;
+    width: 60%;
+}
+
+#insider #reminder #reminder_title {
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+#insider #reminder table {
+    margin: auto;
+    /*border: 1px solid black;*/
+    font-size: 16px;
+    width: 90%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#insider #reminder table td {
+    /*border: 1px solid black;*/
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#insider #reminder table #no_item_reminder {
+    font-size: 20px;
+    font-style: italic;
+}
+
+#insider #item_list table {
+    margin: auto;
+    width: 70%;
+    font-size: 16px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#insider #item_list td {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#insider #item_list #item_edit_button {
+    text-decoration: none;
+    color: black;
+    background-color: #00ff00;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#insider #item_list #item_edit_button:hover {
+    background-color: #00dd00;
+}
+
+#insider #item_list #item_delete_button {
+    text-decoration: none;
+    color: black;
+    background-color: #ff5050;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#insider #item_list #item_delete_button:hover {
+    background-color: #dd5050;
+}
+
+#insider #item_list #new_item {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#insider #item_list #new_item:hover {
+    background-color: #444444;
+}
+
+#insider #history table {
+    margin: auto;
+    width: 90%;
+    font-size: 16px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#insider #history td {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#insider #item_form {
+    width: 80%;
+    text-align: left;
+    margin: auto;
+    font-size: 18px;
+    padding-top: 10px;
+    font-family: Calibri;
+}
+
+#insider form {
+    width: 100%;
+}
+
+#insider form .form_fill {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#insider label {
+    width: 130px;
+    float: left;
+    text-align: right;
+    margin-right: 15px;
+    font-size: 20px;
+    padding: 3px;
+}
+
+#insider input[type=text] {
+    width: 350px;
+    border-radius: 2px;
+    font-size: 20px;
+    padding: 3px;
+}
+
+#insider input[type=number] {
+    width: 250px;
+    border-radius: 2px;
+    font-size: 20px;
+    padding: 3px;
+}
+
+#insider input[type=date] {
+    width: 200px;
+    border-radius: 2px;
+    font-size: 20px;
+    padding: 3px;
+}
+
+#insider #user_form {
+    width: 80%;
+    text-align: left;
+    margin: auto;
+    font-size: 10px;
+    padding-top: 10px;
+    font-family: Calibri;
+}
+
+#insider #user_form label {
+    width: 200px;
+    float: left;
+    text-align: right;
+    margin-right: 15px;
+    font-size: 20px;
+    padding: 3px;
+}
+
+#insider input[type=email] {
+    width: 300px;
+    border-radius: 2px;
+    font-size: 20px;
+    padding: 3px;
+}
+
+#insider input[type=password] {
+    width: 300px;
+    border-radius: 2px;
+    font-size: 20px;
+    padding: 3px;
+}
+
+#insider #item_form input[type=submit] {
+    margin-left: 145px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    padding: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#insider #user_form input[type=submit] {
+    margin-left: 218px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    padding: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 1024px){
+    body {
+        background-size: 170vh;
+    }
+}

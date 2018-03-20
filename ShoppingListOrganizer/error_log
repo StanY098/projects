@@ -1,0 +1,107 @@
+[05-Jan-2018 12:34:52 Pacific/Honolulu] PHP Fatal error:  Call to undefined function connectDB() in /home/dastan/public_html/shoppinglist/index.php on line 8
+[05-Jan-2018 13:40:36 Pacific/Honolulu] PHP Fatal error:  Function name must be a string in /home/dastan/public_html/shoppinglist/index.php on line 8
+[05-Jan-2018 13:42:33 Pacific/Honolulu] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/dastan/public_html/shoppinglist/index.php on line 9
+[05-Jan-2018 13:43:44 Pacific/Honolulu] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/dastan/public_html/shoppinglist/index.php on line 9
+[05-Jan-2018 13:44:51 Pacific/Honolulu] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/dastan/public_html/shoppinglist/index.php on line 9
+[05-Jan-2018 16:56:30 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:68) in /home/dastan/public_html/shoppinglist/signup.php on line 72
+[07-Jan-2018 18:17:23 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:68) in /home/dastan/public_html/shoppinglist/signup.php on line 72
+[07-Jan-2018 18:32:34 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:67) in /home/dastan/public_html/shoppinglist/signup.php on line 71
+[07-Jan-2018 18:55:31 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:65) in /home/dastan/public_html/shoppinglist/signup.php on line 69
+[07-Jan-2018 18:56:35 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:65) in /home/dastan/public_html/shoppinglist/signup.php on line 69
+[07-Jan-2018 18:57:00 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:65) in /home/dastan/public_html/shoppinglist/signup.php on line 69
+[07-Jan-2018 19:00:09 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:65) in /home/dastan/public_html/shoppinglist/signup.php on line 69
+[07-Jan-2018 19:03:37 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:65) in /home/dastan/public_html/shoppinglist/signup.php on line 69
+[07-Jan-2018 19:05:49 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected end of file in /home/dastan/public_html/shoppinglist/signup.php on line 105
+[07-Jan-2018 19:06:20 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected '<' in /home/dastan/public_html/shoppinglist/signup.php on line 61
+[07-Jan-2018 22:52:44 Pacific/Honolulu] PHP Fatal error:  Can't use function return value in write context in /home/dastan/public_html/shoppinglist/index.php on line 32
+[08-Jan-2018 13:12:36 Pacific/Honolulu] PHP Warning:  Division by zero in /home/dastan/public_html/shoppinglist/item_new.php on line 16
+[08-Jan-2018 13:16:10 Pacific/Honolulu] PHP Warning:  Division by zero in /home/dastan/public_html/shoppinglist/item_new.php on line 16
+[08-Jan-2018 13:16:14 Pacific/Honolulu] PHP Warning:  Division by zero in /home/dastan/public_html/shoppinglist/item_new.php on line 16
+[08-Jan-2018 13:16:21 Pacific/Honolulu] PHP Warning:  Division by zero in /home/dastan/public_html/shoppinglist/item_new.php on line 16
+[08-Jan-2018 13:16:56 Pacific/Honolulu] PHP Warning:  Division by zero in /home/dastan/public_html/shoppinglist/item_new.php on line 16
+[08-Jan-2018 13:17:04 Pacific/Honolulu] PHP Warning:  Division by zero in /home/dastan/public_html/shoppinglist/item_new.php on line 16
+[08-Jan-2018 13:19:10 Pacific/Honolulu] PHP Warning:  Division by zero in /home/dastan/public_html/shoppinglist/item_new.php on line 16
+[08-Jan-2018 13:19:18 Pacific/Honolulu] PHP Warning:  Division by zero in /home/dastan/public_html/shoppinglist/item_new.php on line 16
+[08-Jan-2018 13:20:22 Pacific/Honolulu] PHP Warning:  Division by zero in /home/dastan/public_html/shoppinglist/item_new.php on line 16
+[08-Jan-2018 14:12:21 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:12:21 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:14:16 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:14:16 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:14:39 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:14:39 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:14:42 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:14:42 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:14:54 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:14:54 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:15:41 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:15:41 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:16:34 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:16:34 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:16:42 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:16:42 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:17:41 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:17:41 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/item_new.php on line 44
+[08-Jan-2018 14:20:11 Pacific/Honolulu] PHP Fatal error:  Call to undefined function sql_error() in /home/dastan/public_html/shoppinglist/list.php on line 11
+[08-Jan-2018 14:20:28 Pacific/Honolulu] PHP Fatal error:  Call to undefined function sql_error() in /home/dastan/public_html/shoppinglist/list.php on line 11
+[09-Jan-2018 12:36:18 Pacific/Honolulu] PHP Fatal error:  Call to undefined function user_nav() in /home/dastan/public_html/shoppinglist/header.php on line 20
+[09-Jan-2018 12:36:38 Pacific/Honolulu] PHP Fatal error:  Call to undefined function firstLogInHead() in /home/dastan/public_html/shoppinglist/home.php on line 7
+[09-Jan-2018 13:14:55 Pacific/Honolulu] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, string given in /home/dastan/public_html/shoppinglist/item_update.php on line 48
+[09-Jan-2018 13:15:38 Pacific/Honolulu] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, string given in /home/dastan/public_html/shoppinglist/item_update.php on line 46
+[09-Jan-2018 13:22:40 Pacific/Honolulu] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/dastan/public_html/shoppinglist/item_update.php on line 46
+[09-Jan-2018 13:22:40 Pacific/Honolulu] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, string given in /home/dastan/public_html/shoppinglist/item_update.php on line 47
+[09-Jan-2018 14:47:14 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/item_delete.php:6) in /home/dastan/public_html/shoppinglist/function.php on line 47
+[09-Jan-2018 22:38:18 Pacific/Honolulu] PHP Warning:  Missing argument 3 for navMade(), called in /home/dastan/public_html/shoppinglist/function.php on line 28 and defined in /home/dastan/public_html/shoppinglist/function.php on line 2
+[09-Jan-2018 22:38:18 Pacific/Honolulu] PHP Warning:  Missing argument 3 for navMade(), called in /home/dastan/public_html/shoppinglist/function.php on line 29 and defined in /home/dastan/public_html/shoppinglist/function.php on line 2
+[09-Jan-2018 22:38:18 Pacific/Honolulu] PHP Warning:  Missing argument 3 for navMade(), called in /home/dastan/public_html/shoppinglist/function.php on line 28 and defined in /home/dastan/public_html/shoppinglist/function.php on line 2
+[09-Jan-2018 22:38:18 Pacific/Honolulu] PHP Warning:  Missing argument 3 for navMade(), called in /home/dastan/public_html/shoppinglist/function.php on line 29 and defined in /home/dastan/public_html/shoppinglist/function.php on line 2
+[10-Jan-2018 14:14:14 Pacific/Honolulu] PHP Warning:  mysql_connect(): Access denied for user 'dastan'@'localhost' (using password: YES) in /home/dastan/public_html/shoppinglist/function.php on line 34
+[10-Jan-2018 14:14:14 Pacific/Honolulu] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/function.php on line 35
+[10-Jan-2018 14:14:14 Pacific/Honolulu] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/function.php on line 35
+[12-Jan-2018 19:16:45 Pacific/Honolulu] PHP Fatal error:  Call to undefined function add_hitem_history() in /home/dastan/public_html/shoppinglist/item_delete.php on line 8
+[14-Jan-2018 16:02:54 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected '=' in /home/dastan/public_html/shoppinglist/item_update.php on line 58
+[14-Jan-2018 16:21:00 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected '[' in /home/dastan/public_html/shoppinglist/item_update.php on line 44
+[14-Jan-2018 16:21:23 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/item_update.php:45) in /home/dastan/public_html/shoppinglist/item_update.php on line 63
+[14-Jan-2018 20:34:21 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:34:21 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:35:35 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:35:35 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:35:39 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:35:39 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:36:45 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:36:45 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:37:30 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:37:30 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:37:43 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:37:43 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:42:33 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:42:33 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/function.php on line 106
+[14-Jan-2018 20:44:41 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/function.php on line 107
+[14-Jan-2018 20:44:41 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/function.php on line 107
+[14-Jan-2018 20:57:30 Pacific/Honolulu] PHP Fatal error:  Call to undefined function item_form() in /home/dastan/public_html/shoppinglist/item_update.php on line 62
+[15-Jan-2018 09:09:44 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected '<' in /home/dastan/public_html/shoppinglist/function.php on line 136
+[15-Jan-2018 09:09:53 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected '<' in /home/dastan/public_html/shoppinglist/function.php on line 136
+[15-Jan-2018 09:11:34 Pacific/Honolulu] PHP Warning:  Missing argument 10 for item_form(), called in /home/dastan/public_html/shoppinglist/item_update.php on line 62 and defined in /home/dastan/public_html/shoppinglist/function.php on line 128
+[15-Jan-2018 20:29:24 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/dastan/public_html/shoppinglist/item_new.php on line 59
+[15-Jan-2018 20:45:33 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/function.php:63) in /home/dastan/public_html/shoppinglist/function.php on line 67
+[15-Jan-2018 20:46:36 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/function.php:63) in /home/dastan/public_html/shoppinglist/function.php on line 67
+[15-Jan-2018 20:46:48 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/function.php:63) in /home/dastan/public_html/shoppinglist/function.php on line 67
+[15-Jan-2018 20:47:43 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/function.php:63) in /home/dastan/public_html/shoppinglist/function.php on line 67
+[15-Jan-2018 20:47:45 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/function.php:63) in /home/dastan/public_html/shoppinglist/function.php on line 67
+[15-Jan-2018 20:47:46 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/function.php:63) in /home/dastan/public_html/shoppinglist/function.php on line 67
+[15-Jan-2018 23:36:24 Pacific/Honolulu] PHP Warning:  preg_match(): Unknown modifier '|' in /home/dastan/public_html/shoppinglist/signup.php on line 34
+[15-Jan-2018 23:37:51 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:38) in /home/dastan/public_html/shoppinglist/function.php on line 40
+[15-Jan-2018 23:37:51 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:38) in /home/dastan/public_html/shoppinglist/signup.php on line 73
+[15-Jan-2018 23:38:00 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:38) in /home/dastan/public_html/shoppinglist/function.php on line 40
+[15-Jan-2018 23:38:00 Pacific/Honolulu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dastan/public_html/shoppinglist/signup.php:38) in /home/dastan/public_html/shoppinglist/signup.php on line 73
+[16-Jan-2018 09:08:00 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/home.php on line 52
+[16-Jan-2018 09:08:00 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/home.php on line 52
+[16-Jan-2018 09:10:45 Pacific/Honolulu] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/dastan/public_html/shoppinglist/home.php on line 45
+[26-Jan-2018 14:59:20 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/email_requirement.php on line 16
+[26-Jan-2018 14:59:20 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/email_requirement.php on line 16
+[26-Jan-2018 14:59:58 Pacific/Honolulu] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dastan/public_html/shoppinglist/forgot_password.php on line 9
+[26-Jan-2018 14:59:58 Pacific/Honolulu] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dastan/public_html/shoppinglist/forgot_password.php on line 9
+[26-Jan-2018 14:59:58 Pacific/Honolulu] PHP Fatal error:  Function name must be a string in /home/dastan/public_html/shoppinglist/forgot_password.php on line 11
+[27-Jan-2018 19:45:09 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected end of file in /home/dastan/public_html/shoppinglist/forgot_password.php on line 101
+[04-Feb-2018 15:35:09 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected '{' in /home/dastan/public_html/shoppinglist/function.php on line 50
+[04-Feb-2018 20:20:26 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting '(' in /home/dastan/public_html/shoppinglist/function.php on line 8
+[13-Feb-2018 18:18:20 Pacific/Honolulu] PHP Parse error:  syntax error, unexpected '}' in /home/dastan/public_html/shoppinglist/home.php on line 88
